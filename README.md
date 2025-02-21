@@ -1,6 +1,6 @@
-Hello, I'm Chethan Reddy G 👋
+                                           Hello, I'm Chethan Reddy G 👋
              
-Quality Analyst Enthusiast
+                                            Quality Analyst Enthusiast
              
 🔭 Currently Seeking Opportunities
 Looking for new roles in Manual and Automation Testing, with hands-on experience in various testing tools and methodologies.
